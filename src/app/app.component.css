@@ -1,0 +1,12 @@
+h2{
+    color:green;
+}
+.headertext{
+    font-size: 40px;
+    
+    text-decoration: underline;
+}
+
+.headertext::first-letter{
+    color:red;
+}
